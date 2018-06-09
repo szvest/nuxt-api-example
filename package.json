@@ -5,9 +5,9 @@
   "author": "David Royer <droyer01@gmail.com>",
   "private": false,
   "dependencies": {
-    "@nuxtjs/bulma": "^1.0.1",
+    "@nuxtjs/bulma": "^1.2.0",
     "@nuxtjs/font-awesome": "^1.0.1",
-    "@nuxtjs/markdownit": "^0.0.2",
+    "@nuxtjs/markdownit": "latest",
     "axios": "^0.16.2",
     "js-cookie": "^2.1.4",
     "lodash": "^4.17.4",
