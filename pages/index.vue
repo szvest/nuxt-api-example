@@ -25,7 +25,7 @@
 </template>
 
 <script>
-  import HomeContent from '~static/markdownFiles/HomeContent.md'
+  import HomeContent from '~/static/markdownFiles/HomeContent.md'
   export default {
     data () {
       return {
